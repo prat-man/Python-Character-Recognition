@@ -1,0 +1,1 @@
+D:/Tools/Python/Python27/python D:/Image/image.py --image D:/Image/SA_001.jpeg --output D:/Image/SA_001.txt
